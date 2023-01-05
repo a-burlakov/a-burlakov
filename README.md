@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](C:\PythonProjects\a-burlakov\img\troglodyte-homm3.gif)
+
 <!--
 **flower-ab/flower-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
