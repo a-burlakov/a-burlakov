@@ -1,6 +1,6 @@
 
 <img align='left' src="./img/avatar-plus-plus-plus.png" width="120">
-<h3><p>Hi, I'm Alex!</br>I'm on my way to becoming a strong Python developer!</p></h3>
+<h2><p>Hi, I'm Alex!</br>I'm on my way to becoming a strong Python developer!</p></h2>
 
 ![](./img/my-way2.png)
 
