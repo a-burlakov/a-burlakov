@@ -1,5 +1,6 @@
 
-<h2><img align='center' src="./img/avatar-plus-plus-plus.png" width="100"> Hi, I'm Alex!</h2>
+<img align='left' src="./img/avatar-plus-plus-plus.png" width="120">
+<h2><p>Hi, I'm Alex!</br>I'm on my way to becoming a strong Python developer</p></h2>
 
 ![](./img/my-way2.png)
 
