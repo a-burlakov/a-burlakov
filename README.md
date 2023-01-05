@@ -1,5 +1,5 @@
 
-<img align='left' src="./img/avatar-1.png" width="140">
+<img align='left' src="./img/avatar-3.png" width="140">
 <div align="center">
 <h2><p>Hi, I'm Alex!</br>I'm on my way to become a strong Python developer! 🔥</p></h2>
 </div>
