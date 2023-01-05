@@ -1,5 +1,5 @@
 
-<img vertical-align='middle' align='left' src="./img/avatar-plus-plus-plus.png" width="120">
+<img align='middle' src="./img/avatar-plus-plus-plus.png" width="120">
 <h2><p>Hi, I'm Alex!</br>I'm on my way to becoming a strong Python developer!</p></h2>
 
 <img align='middle' src="./img/my-way2.png" width="600">
