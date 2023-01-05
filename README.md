@@ -1,3 +1,4 @@
+![](./img/avatar-plus-plus-plus.png)
 ![](./img/my-way.png)
 
 <!--
