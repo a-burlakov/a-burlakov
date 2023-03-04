@@ -14,3 +14,4 @@
 
 ![](https://komarev.com/ghpvc/?username=a-burlakov)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true)
