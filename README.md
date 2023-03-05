@@ -16,15 +16,28 @@
 
 
 <div align="center" >
-<img src="./img/crusader_and_hydra_overlay6.gif" height="250">
+<img src="./img/crusader_and_hydra_overlay7.gif" height="250">
 </div>
 
 <div align="center" >
-<img src="./img/crusader_and_hydra_overlay6.gif" height="275">
+<img src="./img/crusader_and_hydra_overlay7.gif" height="275">
 </div>
 
 <div align="center" >
-<img src="./img/crusader_and_hydra_overlay6.gif" height="300">
+<img src="./img/crusader_and_hydra_overlay7.gif" height="300">
+</div>
+
+
+<div align="center" >
+<img src="./img/crusader_and_hydra_overlay8.gif" height="250">
+</div>
+
+<div align="center" >
+<img src="./img/crusader_and_hydra_overlay8.gif" height="275">
+</div>
+
+<div align="center" >
+<img src="./img/crusader_and_hydra_overlay8.gif" height="300">
 </div>
 
 [//]: # (<img src="./img/crusader_walking.gif" height="200"">)
