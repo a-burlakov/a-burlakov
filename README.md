@@ -10,6 +10,6 @@
 * wip
 * wip
 
-read more at [aaburlakov.ru](aaburlakov.ru)
+read more at [aaburlakov.ru](http://aaburlakov.ru)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true)
