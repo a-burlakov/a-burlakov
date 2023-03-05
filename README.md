@@ -5,13 +5,20 @@
 </div>
 
 <div align="center">
-<img src="./img/crusader_walking.gif" width="600">
+<img src="./img/crusader_walking.gif![img.png](img.png)" width="600">
 <img src="./img/hydra_walking.gif" width="600">
 </div>
+
 
 <br>
 
 &ast; fyi, these nice images are from the best video game ever made: [**Heroes of Might and Magic III**](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition) ⚔🔮 -->
+
+
+<div align="center">
+<img src="./img/crusader_walking.gif" width="600">
+<img src="./img/hydra_walking.gif" width="600">
+</div>
 
 ![](https://komarev.com/ghpvc/?username=a-burlakov)
 
