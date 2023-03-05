@@ -10,9 +10,12 @@
 </div>
 
 <h3>Recently on my blog</h3>
-* wip
-* wip
-* wip
+<!-- blog starts -->
+* [How Boards Work](https://vidyabhandary.github.io/blog/business,/boards/2023/02/12/HowBoardsWork.html)
+* [Business at the Speed of AI](https://vidyabhandary.github.io/blog/2023/02/05/BusinessAtTheSpeedofAI.html)
+* [150 Days Of Code 2022](https://vidyabhandary.github.io/blog/2022/07/04/150DaysOfCode-2022.html)
+<!-- blog ends -->
+More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 
 
 read more at [aaburlakov.ru](aaburlakov.ru)
