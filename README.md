@@ -16,7 +16,8 @@
 
 
 <div align="center" >
-<img src="./img/crusader_walking![crusader_and_hydra_overlay.gif](img%2Fcrusader_and_hydra_overlay.gif).gif" height="300"">
+<img src="./img/crusader_and_hydra_overlay.gif" height="300">
+
 [//]: # (<img src="./img/crusader_walking.gif" height="200"">)
 
 [//]: # (<img src="./img/hydra_walking.gif" height="200">)
