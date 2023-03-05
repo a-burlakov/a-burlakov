@@ -15,30 +15,16 @@
 &ast; fyi, these nice images are from the best video game ever made: [**Heroes of Might and Magic III**](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition) ⚔🔮 -->
 
 
+
 <div align="center" >
-<img src="./img/crusader_and_hydra_overlay7.gif" height="250">
+<img src="./img/crusader_and_hydra_overlay9.gif" height="250">
 </div>
 
 <div align="center" >
-<img src="./img/crusader_and_hydra_overlay7.gif" height="275">
-</div>
-
-<div align="center" >
-<img src="./img/crusader_and_hydra_overlay7.gif" height="300">
+<img src="./img/crusader_and_hydra_overlay9.gif" height="275">
 </div>
 
 
-<div align="center" >
-<img src="./img/crusader_and_hydra_overlay8.gif" height="250">
-</div>
-
-<div align="center" >
-<img src="./img/crusader_and_hydra_overlay8.gif" height="275">
-</div>
-
-<div align="center" >
-<img src="./img/crusader_and_hydra_overlay8.gif" height="300">
-</div>
 
 [//]: # (<img src="./img/crusader_walking.gif" height="200"">)
 
