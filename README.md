@@ -16,8 +16,8 @@
 
 
 <div align="center">
-<img src="./img/crusader_walking.gif" width="600">
-<img src="./img/hydra_walking.gif" width="600">
+<img src="./img/crusader_walking.gif" width="200">
+<img src="./img/hydra_walking.gif" width="200">
 </div>
 
 ![](https://komarev.com/ghpvc/?username=a-burlakov)
