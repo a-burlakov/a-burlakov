@@ -15,9 +15,11 @@
 &ast; fyi, these nice images are from the best video game ever made: [**Heroes of Might and Magic III**](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition) ⚔🔮 -->
 
 
-<div align="center">
-<img src="./img/crusader_walking.gif" height="200">
-<img src="./img/hydra_walking.gif" height="200">
+<div align="center" >
+<img src="./img/crusader_walking![crusader_and_hydra_overlay.gif](img%2Fcrusader_and_hydra_overlay.gif).gif" height="300"">
+[//]: # (<img src="./img/crusader_walking.gif" height="200"">)
+
+[//]: # (<img src="./img/hydra_walking.gif" height="200">)
 </div>
 
 ![](https://komarev.com/ghpvc/?username=a-burlakov)
