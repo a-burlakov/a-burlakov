@@ -16,12 +16,7 @@
 
 
 <div align="center" >
-<img src="./img/crusader_and_hydra_overlay.gif" height="300">
-<img src="./img/crusader_and_hydra_overlay2.gif" height="300">
-<img src="./img/crusader_and_hydra_overlay2.gif" height="275">
 <img src="./img/crusader_and_hydra_overlay2.gif" height="250">
-<img src="./img/crusader_and_hydra_overlay2.gif" height="225">
-<img src="./img/crusader_and_hydra_overlay2.gif" height="200">
 
 [//]: # (<img src="./img/crusader_walking.gif" height="200"">)
 
