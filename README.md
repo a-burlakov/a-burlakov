@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-<img src="./img/my-way2.png" width="600">
+<img src="./img/crusader_walking.gif" width="600">
+<img src="./img/hydra_walking.gif" width="600">
 </div>
 
 <br>
