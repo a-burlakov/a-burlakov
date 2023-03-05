@@ -1,5 +1,3 @@
-
-
 ### My life described in one .gif
 
 <div align="left">
@@ -7,8 +5,7 @@
 </div>
 
 ### Recently on my blog
-* wip
-* wip
+* WIP...
 
 read more at [aaburlakov.ru](http://aaburlakov.ru)
 
