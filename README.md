@@ -3,9 +3,17 @@
 <h2><p>Hi, I'm Alex!</br>I'm on my way to become a strong Python developer! 🔥</p></h2>
 </div>-->
 
+<h3>My life described in one .gif</h3>
+
 <div align="left">
 <img src="./img/crusader_and_hydra_overlay10.gif" height="250">
 </div>
+
+<h3>Recently on my blog</h3>
+- wip
+- wip
+- wip
+read more at [aaburlakov.ru](aaburlakov.ru)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true)
 
