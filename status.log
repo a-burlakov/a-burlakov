@@ -1,1 +1,0 @@
-2023-03-06 17:30:41,103 - __main__ - INFO - [{'title': 'Тестовая статья №1', 'date': '2023-03-06', 'get_absolute_url': '/blog/testovaya-statya-1/'}, {'title': 'Тестовая статья номер два', 'date': '2023-03-06', 'get_absolute_url': '/blog/testovaya-statya-nomer-dva/'}, {'title': 'Ура! Получилось!', 'date': '2023-03-03', 'get_absolute_url': '/blog/ura-poluchilos/'}]
