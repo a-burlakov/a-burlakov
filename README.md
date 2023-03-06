@@ -6,7 +6,6 @@
 
 
 ### Recently on my blog
-* [Тестовая статья №1](http://aaburlakov.ru/blog/testovaya-statya-1/)
 * [Тестовая статья номер два](http://aaburlakov.ru/blog/testovaya-statya-nomer-dva/)
 * [Ура! Получилось!](http://aaburlakov.ru/blog/ura-poluchilos/)
 
