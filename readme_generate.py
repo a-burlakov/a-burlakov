@@ -16,7 +16,6 @@ def generate_readme():
 
     # Data handling.
     recent_posts = response.json()
-    print(recent_posts)
     recent_posts_md_texts = []
     for post in recent_posts:
         recent_posts_md_texts.append(
