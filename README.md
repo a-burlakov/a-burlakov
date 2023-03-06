@@ -5,10 +5,8 @@
 </div>
 
 ### Recently on my blog
-* [Тестовая статья номер два](http://aaburlakov.ru/blog/testovaya-statya-nomer-dva/)<br>
-fsdfdsfsdfds_
-* [Ура! Получилось!](http://aaburlakov.ru/blog/ura-poluchilos/) <br>
-_fdsfdsfdsfdsfdsfdss_
+* [РўРµСЃС‚РѕРІР°СЏ СЃС‚Р°С‚СЊСЏ РЅРѕРјРµСЂ РґРІР°](http://aaburlakov.ru/blog/testovaya-statya-nomer-dva/)
+* [РЈСЂР°! РџРѕР»СѓС‡РёР»РѕСЃСЊ!](http://aaburlakov.ru/blog/ura-poluchilos/)
 
 read more at [aaburlakov.ru](http://aaburlakov.ru)
 
