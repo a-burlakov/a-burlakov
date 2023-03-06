@@ -2,3 +2,4 @@
 2023-03-06 17:17:54,030 - __main__ - INFO - [{"title": "Ура! Получилось!", "date": "2023-03-03", "get_absolute_url": "/blog/ura-poluchilos/"}]
 2023-03-06 17:27:27,254 - __main__ - INFO - [{'title': 'Ура! Получилось!', 'date': '2023-03-03', 'get_absolute_url': '/blog/ura-poluchilos/'}]
 2023-03-06 12:28:12,270 - __main__ - INFO - [{'title': 'Ура! Получилось!', 'date': '2023-03-03', 'get_absolute_url': '/blog/ura-poluchilos/'}]
+2023-03-06 12:46:43,945 - __main__ - INFO - [{'title': 'Тестовая статья №1', 'date': '2023-03-06', 'get_absolute_url': '/blog/testovaya-statya-1/'}, {'title': 'Тестовая статья номер два', 'date': '2023-03-06', 'get_absolute_url': '/blog/testovaya-statya-nomer-dva/'}, {'title': 'Ура! Получилось!', 'date': '2023-03-03', 'get_absolute_url': '/blog/ura-poluchilos/'}]
