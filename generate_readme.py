@@ -1,23 +1,28 @@
-import json
-import logging.handlers
-import os
-
 import requests
 
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
-logger_file_handler = logging.handlers.RotatingFileHandler(
-    "status.log",
-    maxBytes=1024 * 1024,
-    backupCount=1,
-    encoding="utf8",
-)
-formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
-logger_file_handler.setFormatter(formatter)
-logger.addHandler(logger_file_handler)
+
+def generate_readme():
+    """
+    Generates the README.md file by setting up parameters (looks like "$TEST")
+    in "readme_template.md".
+    """
+    site_url = "http://aaburlakov.ru"
+    api_recent_posts = "/api/v1/recentarticles"
+    response = requests.get(f"{site_url}{api_recent_posts}")
+    if response.status_code != 200:
+        return
+
+    recent_posts = response.json()
+    print(recent_posts)
+    recent_posts_md_texts = []
+    for post in recent_posts:
+        recent_posts_md_texts.append(f"* [{post['title']}]({site_url + post['get_absolute_url']})")
+    recent_posts_text = "\n".join(recent_posts_md_texts)
+    with open('readme_template.md', 'r', encoding="utf-8") as f:
+        readme_template = f.read()
+    with open('README.md', 'w') as f:
+        f.write(readme_template.format(RECENT_POSTS=recent_posts_text))
 
 
 if __name__ == '__main__':
-    resp = requests.get('http://aaburlakov.ru/api/v1/recentarticles')
-    result = resp.json()
-    logger.info(str(result))
+    generate_readme()

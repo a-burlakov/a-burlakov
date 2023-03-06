@@ -6,6 +6,7 @@
 
 
 ### Recently on my blog
+{RECENT_POSTS}
 
 read more at [aaburlakov.ru](http://aaburlakov.ru)
 
