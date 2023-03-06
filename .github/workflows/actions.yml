@@ -23,8 +23,6 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python generate_readme.py
 
       - name: commit files
