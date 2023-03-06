@@ -2,7 +2,7 @@ name: run generate_readme.py
 
 on:
   schedule:
-    - cron: '1 * * * *'
+    - cron: '* * * * *'
 
 jobs:
   build:
