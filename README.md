@@ -12,4 +12,4 @@ _fdsfdsfdsfdsfdsfdss_
 
 read more at [aaburlakov.ru](http://aaburlakov.ru)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true&hide_border=true&hide=contribs)
