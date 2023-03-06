@@ -20,4 +20,4 @@ logger.addHandler(logger_file_handler)
 if __name__ == '__main__':
     resp = requests.get('http://aaburlakov.ru/api/v1/recentarticles')
     result = resp.json()
-    print(result)
+    logger.info(str(result))
