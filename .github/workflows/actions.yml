@@ -1,4 +1,4 @@
-name: run generate_readme.py
+name: run readme_generate.py
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
-        run: python generate_readme.py
+        run: python readme_generate.py
 
       - name: commit files
         run: |

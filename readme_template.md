@@ -8,6 +8,6 @@
 ### Recently on my blog
 {RECENT_POSTS}
 
-read more at [aaburlakov.ru](http://aaburlakov.ru)
+read more at [aaburlakov.ru]({URL_ORIGIN})
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true)
