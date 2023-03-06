@@ -4,7 +4,6 @@
 <img src="./img/crusader_and_hydra_fight.gif" height="225">
 </div>
 
-
 ### Recently on my blog
 {RECENT_POSTS}
 
