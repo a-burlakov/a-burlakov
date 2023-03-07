@@ -5,8 +5,8 @@
 </div>
 
 ### Recently on my blog
-* [Ура, получилось обновить README.md!](http://aaburlakov.ru/blog/hello-world-api/) <br>  _Сделал запрос к /api/v1/recentarticles_
-* [Ура! Получилось!](http://aaburlakov.ru/blog/ura-poluchilos/) <br>  _Смог задеплоить это всё через Docker! 🐳_
+* [Тестовая статья номер два](http://aaburlakov.ru/blog/testovaya-statya-nomer-dva/)
+* [Ура! Получилось!](http://aaburlakov.ru/blog/ura-poluchilos/)
 
 read more at [aaburlakov.ru](http://aaburlakov.ru)
 
