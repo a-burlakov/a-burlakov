@@ -22,8 +22,11 @@ def generate_readme():
     # Generating markdown lines for each post that looks like this:
     # * [My post number one](http://aaburlakov.ru/blog/my-post-number-one/)
     #   <br> _This is my post number one_
-    for post in recent_posts_data:
-        line_template = "* {} <br>  _{}_"
+    for i, post in enumerate(recent_posts_data, 1):
+        if i <= 2:
+            line_template = "* 🔥 **{}** <br>  _{}_"
+        else:
+            line_template = "* **{}** <br>  _{}_"
 
         line_title = f"[{ post['title'] }]({ url_origin + post['path'] })"
         line_subtitle = post["sub_title"]
