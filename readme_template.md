@@ -1,7 +1,7 @@
 ### My life described in one .gif
 
 <div align="center">
-<img src="./img/crusader_and_hydra_fight.gif" height="225">
+<img src="./img/hydra_fight.gif" height="225">
 </div>
 
 ### Recently on my blog
