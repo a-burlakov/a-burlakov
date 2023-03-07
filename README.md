@@ -1,6 +1,6 @@
 ### My life described in one .gif
 
-<div align="center">
+<div align="left">
 <img src="./img/hydra_fight.gif" height="225">
 </div>
 
