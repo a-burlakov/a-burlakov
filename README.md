@@ -1,4 +1,4 @@
-### My life described in one .gif
+[//]: # (### My life described in one .gif)
 
 <div align="left">
 <img src="./img/hydra_fight.gif" height="225">
