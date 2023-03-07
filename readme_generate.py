@@ -32,10 +32,6 @@ def generate_readme():
         md_lines.append(md_line)
 
     recent_posts_md_text = "\n".join(md_lines)
-    # :
-
-
-
 
     # Generating README.md based on the template.
     with open("readme_template.md", "r", encoding="utf-8") as readme_template:
