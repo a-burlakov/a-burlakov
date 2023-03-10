@@ -8,7 +8,7 @@ def generate_readme():
     """
 
     # Data getting.
-    url_origin = "http://aaburlakov.ru"  # protocol + host
+    url_origin = "https://aaburlakov.ru"  # protocol + host
     api_recent_posts = "/api/v1/recentarticles"
     response = requests.get(f"{url_origin}{api_recent_posts}")
 
