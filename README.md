@@ -5,9 +5,9 @@
 </div>
 
 ### Recently on my blog
-* 🔥 **[Победа, смог поставить SSL! 🔐](https://aaburlakov.ru/blog/pobeda-smog-postavit-ssl/)** <br>    _Это было не сложно, но вот NGINX..._
-* 🔥 **[Ура, получилось обновить README.md!](https://aaburlakov.ru/blog/ura-poluchilos-obnovit-readmemd/)** <br>    _Сделал запрос к /api/v1/recentarticles_
-* **[Ура! Получилось!](https://aaburlakov.ru/blog/ura-poluchilos/)** <br>  _Смог задеплоить это всё через Docker! 🐳_
+* 🔥 **[Победа, смог поставить SSL! 🔐](https://aaburlakov.ru/blog/pobeda-smog-postavit-ssl/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Это было не сложно, но вот NGINX..._
+* 🔥 **[Настроил обновление README.md с помощью DRF!](https://aaburlakov.ru/blog/ura-poluchilos-obnovit-readmemd/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_С GitHub Actions на /api/v1/recentarticles_
+* **[Ура! Получилось!](https://aaburlakov.ru/blog/ura-poluchilos/)** <br>  _Задеплоил свой сайт через Docker! 🐳_
 
 read more at [aaburlakov.ru](https://aaburlakov.ru)
 

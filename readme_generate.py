@@ -24,7 +24,7 @@ def generate_readme():
     #   <br> _This is my post number one_
     for i, post in enumerate(recent_posts_data, 1):
         if i <= 2:
-            line_template = "* 🔥 **{}** <br>    _{}_"
+            line_template = "* 🔥 **{}** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_{}_"
         else:
             line_template = "* **{}** <br>  _{}_"
 
