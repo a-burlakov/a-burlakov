@@ -1,7 +1,7 @@
 [//]: # (### My life described in one .gif)
 
 <a>
-<img align="right" src="./img/hydra_fight.gif" width=225 />
+<img align="right" src="./img/hydra_fight.gif" height=225 />
 </a>
 
 ### Recently on my blog
