@@ -1,3 +1,5 @@
+### Hi there 👋
+
 _Just a draft yet ⚒_
 
 So now I'm like web developer junior, let's go.
@@ -9,7 +11,6 @@ Also public speeches about soft skills: here and here
 <div align="center">
 <b>blocks</b>: resume, site , mail, vk, telegram, linkedin
 </div>
-
 
 ### Tools I use
 python django flask 1c postgres sqlite mssql html css js vue docker nginx gunicorn pycharm vscode windows ubuntu git github githubactions chrome postman 
