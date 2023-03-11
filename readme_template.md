@@ -1,10 +1,11 @@
 [//]: # (### My life described in one .gif)
 
-<div align="left">
-<img src="./img/hydra_fight.gif" height="225">
-</div>
+<a>
+<img align="right" src="./img/hydra_fight.gif" width=225 />
+</a>
 
 ### Recently on my blog
+
 {RECENT_POSTS}
 
 read more at [aaburlakov.ru]({URL_ORIGIN})
