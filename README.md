@@ -21,4 +21,8 @@ python django postgres sqlite mssql vue docker nginx gunicorn pycharm windows ub
 
 read more at [aaburlakov.ru](https://aaburlakov.ru)
 
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true&hide_border=true&hide=contribs&hide_title=True)
+
+</div>
