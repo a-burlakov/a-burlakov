@@ -16,14 +16,13 @@ python django postgres sqlite mssql html css js vue docker nginx gunicorn pychar
 
 <img align="right" src="./img/hydra_fight.gif" height=225 />
 
-
-<h2>Some Quick Facts</h2>
-
-- my life described in one .gif 👉
+### Some quick facts
 - bicycle
 - public speeches
 - books
 - guitar and songs
+- something else
+- my life described in one .gif 👉
 
 ### Recently on my blog (rus)
 * 🔥 **[Победа, смог поставить SSL! 🔐](https://aaburlakov.ru/blog/pobeda-smog-postavit-ssl/)** <br> _Это было не сложно, но вот NGINX..._
