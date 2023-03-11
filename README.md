@@ -12,7 +12,7 @@ Also public speeches about soft skills: here and here
 
 
 ### Tools I use
-python django flask postgres sqlite mssql html css js vue docker nginx gunicorn pycharm vscode windows ubuntu git github githubactions chrome postman books 1c
+python django flask 1c postgres sqlite mssql html css js vue docker nginx gunicorn pycharm vscode windows ubuntu git github githubactions chrome postman 
 
 <img align="right" src="./img/hydra_fight.gif" height=240 />
 
@@ -40,6 +40,6 @@ read more at [my site](https://aaburlakov.ru). Automatically updated by [GitHub 
 
 <div align="right">
 
- ![](https://komarev.com/ghpvc/?username=a-burlakov) BUILD README maybe some more stats dunno
+ ![](https://komarev.com/ghpvc/?username=a-burlakov) BUILD README LASTCOMMIT maybe some more stats dunno
 
 </div>
