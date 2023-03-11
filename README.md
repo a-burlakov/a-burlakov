@@ -14,7 +14,7 @@ Also public speeches about soft skills: here and here
 ### Tools I use
 python django flask postgres sqlite mssql html css js vue docker nginx gunicorn pycharm vscode windows ubuntu git github githubactions chrome postman books 1c
 
-<img align="right" src="./img/hydra_fight.gif" height=225 />
+<img align="right" src="./img/hydra_fight.gif" height=240 />
 
 ### Some quick facts
 - bicycle
