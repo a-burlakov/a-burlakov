@@ -22,6 +22,7 @@ python django flask postgres sqlite mssql html css js vue docker nginx gunicorn 
 - books
 - guitar and songs
 - something else
+- something else
 - my life described in one .gif 👉
 
 ### Recently on my blog (rus)
