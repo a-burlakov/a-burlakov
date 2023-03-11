@@ -12,7 +12,6 @@ Also public speeches about soft skills: here and here
 <b>blocks</b>: resume, site , mail, vk, telegram, linkedin
 </div>
 
-
 ### Tools I use
 python django flask 1c postgres sqlite mssql html css js vue docker nginx gunicorn pycharm vscode windows ubuntu git github githubactions chrome postman 
 
