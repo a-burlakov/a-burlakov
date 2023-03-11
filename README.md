@@ -1,9 +1,7 @@
-[//]: # (### My life described in one .gif)
 
 <a>
 <img align="right" src="./img/hydra_fight.gif" height=225 />
 </a>
-
 ### Recently on my blog
 
 * 🔥 **[Победа, смог поставить SSL! 🔐](https://aaburlakov.ru/blog/pobeda-smog-postavit-ssl/)** <br> _Это было не сложно, но вот NGINX..._
