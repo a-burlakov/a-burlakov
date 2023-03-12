@@ -39,6 +39,6 @@ read more at [my site]({URL_ORIGIN}). Automatically updated by [GitHub Actions](
 
 <div align="right">
 
- ![](https://komarev.com/ghpvc/?username=a-burlakov) BUILD README LASTCOMMIT maybe some more stats dunno
+ ![](https://komarev.com/ghpvc/?username=a-burlakov) BUILD README LASTCOMMIT 
 
 </div>
