@@ -59,7 +59,7 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 
 read more at [my site](https://aaburlakov.ru). Automatically updated by [GitHub Actions](https://github.com/a-burlakov/a-burlakov/actions). 
 
-<div align="center">
+<div align="right">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-burlakov&show_icons=true&hide_border=true&hide=contribs&hide_title=True)
 
