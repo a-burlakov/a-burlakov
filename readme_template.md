@@ -8,6 +8,7 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 
 [//]: # (<div align="center">)
 [//]: # (resume &#40;WIP&#41; • site • mail • vk • telegram • linkedin)
+
 [//]: # (</div>)
 
 ### Tools I use
