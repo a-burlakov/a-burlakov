@@ -8,7 +8,10 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 
 [//]: # (<div align="center">)
 [//]: # (resume &#40;WIP&#41; • site • mail • vk • telegram • linkedin)
+
 [//]: # (</div>)
+
+<br>
 
 ### Tools I use
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
@@ -35,6 +38,8 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=fff)
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=fff)
 
+<br>
+
 ### Some quick facts
 <img align="right" src="./img/hydra_fight.gif" height=225 />
 
@@ -52,6 +57,8 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 * **[Ура! Получилось!](https://aaburlakov.ru/blog/ura-poluchilos/)** <br> _Задеплоил свой сайт через Docker! 🐳_
 
 read more at [my site](https://aaburlakov.ru). Automatically updated by [GitHub Actions](https://github.com/a-burlakov/a-burlakov/actions). 
+
+<br>
 
 <div align="right">
 

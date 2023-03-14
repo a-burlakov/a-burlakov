@@ -11,6 +11,8 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 
 [//]: # (</div>)
 
+<br>
+
 ### Tools I use
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
@@ -36,6 +38,8 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=fff)
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=fff)
 
+<br>
+
 ### Some quick facts
 <img align="right" src="./img/hydra_fight.gif" height=225 />
 
@@ -51,6 +55,8 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 {RECENT_POSTS}
 
 read more at [my site]({URL_ORIGIN}). Automatically updated by [GitHub Actions](https://github.com/a-burlakov/a-burlakov/actions). 
+
+<br>
 
 <div align="right">
 
