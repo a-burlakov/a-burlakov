@@ -64,6 +64,6 @@ read more at [my site](https://aaburlakov.ru). Automatically updated by [GitHub 
 
 <div align="right">
 
- ![](https://komarev.com/ghpvc/?username=a-burlakov) BUILD README LASTCOMMIT 
+ ![](https://komarev.com/ghpvc/?username=a-burlakov) ![](https://img.shields.io/github/actions/workflow/status/a-burlakov/a-burlakov/actions.yml?label=README.md%20build)
 
 </div>
