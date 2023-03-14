@@ -38,7 +38,7 @@ resume (WIP) • site • mail • vk • telegram • linkedin
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=fff)
 
 
-<img align="right" src="./img/hydra_fight.gif" height=240 />
+<img align="right" src="./img/hydra_fight.gif" height=225 />
 
 ### Some quick facts
 - my life described in one .gif 👉
