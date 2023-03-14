@@ -62,6 +62,6 @@ read more at [my site]({URL_ORIGIN}). Automatically updated by [GitHub Actions](
 
 <div align="right">
 
- ![](https://komarev.com/ghpvc/?username=a-burlakov) ![](https://img.shields.io/github/actions/workflow/status/a-burlakov/a-burlakov/actions.yml?label=README.md%20build)
+ ![](https://komarev.com/ghpvc/?username=a-burlakov) ![](https://img.shields.io/github/actions/workflow/status/a-burlakov/a-burlakov/actions.yml?label=README%20build)
 
 </div>
