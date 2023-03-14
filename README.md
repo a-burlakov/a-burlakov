@@ -4,7 +4,7 @@ Currently, I'm on my way to becoming strong and reliable Python web developer.
 
 I have a rich prior 8-year experience with [1C:Enterprise](https://v8.1c.ru/) and made a bunch of cool things with it, including: [voluntary projects](https://www.ekbmiloserdie.ru/news/item_03807-zachem_vesti_bazu_dannyih_lits_bomj); mobile applications; [complex medical systems](https://vk.com/cfm2001?w=wall-76276932_6649) and mechanisms for working with database >20 TB. 
 
-I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zItkmly_yvA&list=LL&index=5&ab_channel=INFOSTART.RU) of [times](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU) and spoken publicly to halls of 900 people. 
+I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zItkmly_yvA&list=LL&index=5&ab_channel=INFOSTART.RU) of [times](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU) and made public speeches in halls for 900 people. 
 
 [//]: # (<div align="center">)
 [//]: # (resume &#40;WIP&#41; • site • mail • vk • telegram • linkedin)
@@ -16,7 +16,7 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 ### Tools I use
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
-![](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=fff)
+![](https://img.shields.io/badge/-Flask-fff?style=flat&logo=flask&logoColor=000)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=fff)
 ![](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=fff)
 ![](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=fff)
@@ -30,7 +30,7 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 ![](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=fff)
 ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=000)
 ![](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=fff)
-![](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=PyCharm&logoColor=fff)
+![](https://img.shields.io/badge/-PyCharm%20Pro-13764e?style=flat&logo=PyCharm&logoColor=fff)
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=fff)
 ![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff)
@@ -68,6 +68,6 @@ read more at [my site](https://aaburlakov.ru). Automatically updated by [GitHub 
 
 <div align="right">
 
- ![](https://komarev.com/ghpvc/?username=a-burlakov) ![](https://img.shields.io/github/actions/workflow/status/a-burlakov/a-burlakov/actions.yml?label=README%20build)
+ ![](https://img.shields.io/github/actions/workflow/status/a-burlakov/a-burlakov/actions.yml?label=README%20build) ![Profile views](https://gpvc.arturio.dev/a-burlakov) 
 
 </div>
