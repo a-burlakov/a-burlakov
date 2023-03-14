@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-_Just a draft yet ⚒_
-
 Currently, I'm on my way to becoming strong and reliable Python web developer.
 
 I have a rich prior 8-year experience with [1C:Enterprise](https://v8.1c.ru/) and made a bunch of cool things with it, including: [voluntary projects](https://www.ekbmiloserdie.ru/news/item_03807-zachem_vesti_bazu_dannyih_lits_bomj); mobile applications; [complex medical systems](https://vk.com/cfm2001?w=wall-76276932_6649) and mechanisms for working with database >20 TB. 
 
 I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zItkmly_yvA&list=LL&index=5&ab_channel=INFOSTART.RU) of [times](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU) and spoken publicly to halls of 900 people. 
 
-<div align="center">
-resume (WIP) • site • mail • vk • telegram • linkedin
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (resume &#40;WIP&#41; • site • mail • vk • telegram • linkedin)
+
+[//]: # (</div>)
 
 ### Tools I use
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
@@ -43,12 +43,11 @@ resume (WIP) • site • mail • vk • telegram • linkedin
 ### Some quick facts
 <img align="right" src="./img/hydra_fight.gif" height=225 />
 
+- my life can be described in one .gif 👉
 - 🚴‍ I love to ride my bike at any time, even in -35° 🥶
 - 📚 I [read all the time](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU), and I'm in eternal love with russian literature
-- 🎸 I play guitar and have my [top](https://www.youtube.com/watch?v=xtxjm7ciwmc) [three](https://www.youtube.com/watch?v=ayh_v_ZVFzk) [songs](https://www.youtube.com/watch?v=6Fdg05yHhKk) to raise money on the street 🤘
-
-and also my life can be described in one .gif 👉
-
+- 🎸 I love to play guitar and have my [top](https://www.youtube.com/watch?v=xtxjm7ciwmc) [three](https://www.youtube.com/watch?v=ayh_v_ZVFzk) [songs](https://www.youtube.com/watch?v=6Fdg05yHhKk) to sing and raise money on the street 🤘
+- 🎮 I love video games, and you may have already guessed [which](https://www.gog.com/ru/game/heroes_of_might_and_magic_3_complete_edition) [ones](https://github.com/a-burlakov/melinas-fingers) I love especially 😊
 
 <br>
 <br>
