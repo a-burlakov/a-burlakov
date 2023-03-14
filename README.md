@@ -41,6 +41,6 @@ read more at [my site](https://aaburlakov.ru). Automatically updated by [GitHub 
 
 <div align="right">
 
- ![](https://komarev.com/ghpvc/?username=a-burlakov) BUILD README LASTCOMMIT maybe some more stats dunno
+ ![](https://komarev.com/ghpvc/?username=a-burlakov) BUILD README LASTCOMMIT 
 
 </div>
