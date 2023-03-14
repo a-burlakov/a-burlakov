@@ -11,7 +11,30 @@ resume, site , mail, vk, telegram, linkedin
 </div>
 
 ### Tools I use
-python django flask 1c postgres sqlite mssql html css js vue docker nginx gunicorn pycharm vscode windows ubuntu git github githubactions chrome postman 
+![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-1C-fd0?style=flat&logo=1c&logoColor=fff)
+![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
+![](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=fff)
+![](https://img.shields.io/badge/-PostgreSQL-aaa?style=flat&logo=PostgreSQL&logoColor=fff)
+![](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=fff)
+![](https://img.shields.io/badge/-MSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=fff)
+![](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=fff)
+![](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-aaa?style=flat&logo=JavaScript&logoColor=000)
+![](https://img.shields.io/badge/-Vue.js-aaa?style=flat&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-aaa?style=flat&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=NGINX&logoColor=fff)
+![](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=fff)
+![](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=000)
+![](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=fff)
+![](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=PyCharm&logoColor=fff)
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=fff)
+![](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=fff)
+![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff)
+![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=fff)
+![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=fff)
+![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=fff)
+
 
 <img align="right" src="./img/hydra_fight.gif" height=240 />
 
