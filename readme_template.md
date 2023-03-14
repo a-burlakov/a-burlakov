@@ -39,9 +39,10 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 
 
 
-<img align="right" src="./img/hydra_fight.gif" height=225 />
 
 ### Some quick facts
+<img align="right" src="./img/hydra_fight.gif" height=225 />
+
 - my life can be described in one .gif 👉
 - 🚴‍ I love to ride my bike at any time, even in -35° 🥶
 - 📚 I [read all the time](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU), and I'm in eternal love with russian literature
