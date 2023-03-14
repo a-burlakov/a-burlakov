@@ -9,7 +9,7 @@ I have a rich prior 8-year experience with [1C:Enterprise](https://v8.1c.ru/) an
 I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zItkmly_yvA&list=LL&index=5&ab_channel=INFOSTART.RU) of [times](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU) and spoken publicly to halls of 900 people. 
 
 <div align="center">
-resume, site , mail, vk, telegram, linkedin
+resume (WIP) • site • mail • vk • telegram • linkedin
 </div>
 
 ### Tools I use
@@ -42,14 +42,15 @@ resume, site , mail, vk, telegram, linkedin
 
 ### Some quick facts
 - my life described in one .gif 👉
-- public speeches
-- books
-- bicycle
-- guitar and songs. My top three songs for profitable street performing.
-- video games
-- something else
+- 🚴‍ I love to ride my bike at any time, even in -35° 🥶
+- 📚 I [read all the time](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU), and I'm in eternal love with russian literature;
+- 🎸I play guitar and have my [top](https://www.youtube.com/watch?v=xtxjm7ciwmc) [three](https://www.youtube.com/watch?v=ayh_v_ZVFzk) [songs](https://www.youtube.com/watch?v=6Fdg05yHhKk) to raise money on the street 
+- ...
 
-### Recently on my blog (rus)
+<br>
+<br>
+
+### Recently on my blog
 * 🔥 **[Победа, смог поставить SSL! 🔐](https://aaburlakov.ru/blog/pobeda-smog-postavit-ssl/)** <br> _Это было не сложно, но вот NGINX..._
 * 🔥 **[Настроил обновление README.md с помощью DRF!](https://aaburlakov.ru/blog/ura-poluchilos-obnovit-readmemd/)** <br> _С GitHub Actions на /api/v1/recentarticles_
 * **[Ура! Получилось!](https://aaburlakov.ru/blog/ura-poluchilos/)** <br> _Задеплоил свой сайт через Docker! 🐳_
