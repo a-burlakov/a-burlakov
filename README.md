@@ -38,14 +38,17 @@ resume (WIP) • site • mail • vk • telegram • linkedin
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=fff)
 
 
-<img align="right" src="./img/hydra_fight.gif" height=225 />
+
 
 ### Some quick facts
-- my life described in one .gif 👉
+<img align="right" src="./img/hydra_fight.gif" height=225 />
+
 - 🚴‍ I love to ride my bike at any time, even in -35° 🥶
-- 📚 I [read all the time](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU), and I'm in eternal love with russian literature;
-- 🎸I play guitar and have my [top](https://www.youtube.com/watch?v=xtxjm7ciwmc) [three](https://www.youtube.com/watch?v=ayh_v_ZVFzk) [songs](https://www.youtube.com/watch?v=6Fdg05yHhKk) to raise money on the street 
-- ...
+- 📚 I [read all the time](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU), and I'm in eternal love with russian literature
+- 🎸 I play guitar and have my [top](https://www.youtube.com/watch?v=xtxjm7ciwmc) [three](https://www.youtube.com/watch?v=ayh_v_ZVFzk) [songs](https://www.youtube.com/watch?v=6Fdg05yHhKk) to raise money on the street 🤘
+
+and also my life can be described in one .gif 👉
+
 
 <br>
 <br>
