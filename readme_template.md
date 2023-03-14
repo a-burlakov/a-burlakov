@@ -50,7 +50,6 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 - 🎮 I love video games, and you may have already guessed [which](https://www.gog.com/ru/game/heroes_of_might_and_magic_3_complete_edition) [ones](https://github.com/a-burlakov/melinas-fingers) I love especially 😊
 
 <br>
-<br>
 
 ### Recently on my blog
 {RECENT_POSTS}
