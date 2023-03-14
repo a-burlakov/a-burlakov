@@ -16,7 +16,7 @@ I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zIt
 ### Tools I use
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
-![](https://img.shields.io/badge/-Flask-bbb?style=flat&logo=flask&logoColor=000)
+![](https://img.shields.io/badge/-Flask-ddd?style=flat&logo=flask&logoColor=000)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=fff)
 ![](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=fff)
 ![](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=fff)
