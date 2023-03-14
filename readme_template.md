@@ -4,7 +4,7 @@ Currently, I'm on my way to becoming strong and reliable Python web developer.
 
 I have a rich prior 8-year experience with [1C:Enterprise](https://v8.1c.ru/) and made a bunch of cool things with it, including: [voluntary projects](https://www.ekbmiloserdie.ru/news/item_03807-zachem_vesti_bazu_dannyih_lits_bomj); mobile applications; [complex medical systems](https://vk.com/cfm2001?w=wall-76276932_6649) and mechanisms for working with database >20 TB. 
 
-I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zItkmly_yvA&list=LL&index=5&ab_channel=INFOSTART.RU) of [times](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU) and spoken publicly to halls of 900 people. 
+I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zItkmly_yvA&list=LL&index=5&ab_channel=INFOSTART.RU) of [times](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU) and made public speeches in halls for 900 people. 
 
 [//]: # (<div align="center">)
 [//]: # (resume &#40;WIP&#41; • site • mail • vk • telegram • linkedin)
@@ -66,6 +66,6 @@ read more at [my site]({URL_ORIGIN}). Automatically updated by [GitHub Actions](
 
 <div align="right">
 
- ![](https://komarev.com/ghpvc/?username=a-burlakov) ![](https://img.shields.io/github/actions/workflow/status/a-burlakov/a-burlakov/actions.yml?label=README%20build)
+ ![](https://img.shields.io/github/actions/workflow/status/a-burlakov/a-burlakov/actions.yml?label=README%20build) ![Profile views](https://gpvc.arturio.dev/a-burlakov) 
 
 </div>
