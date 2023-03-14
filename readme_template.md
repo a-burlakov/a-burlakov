@@ -2,14 +2,12 @@
 
 _Just a draft yet ⚒_
 
-So now I'm like web developer junior, let's go.
+Currently, I'm on my way to becoming strong and reliable Python web developer.
 
-Before I spent 8 years on 1C (russian SAP or Salesforce for cheap and rapid enterprise developing). Made [voluntary projects](https://www.ekbmiloserdie.ru/news/item_03807-zachem_vesti_bazu_dannyih_lits_bomj), mobile applications, medicine tools, high load, >20 TB databases, > 1 billion records, public speech > 900 people.
-
-Also public speeches about soft skills: here and here
+I have a rich prior 8-year experience with 1C Platform (russian SAP/Salesforce) and made a bunch of cool things with it, including: [voluntary projects](https://www.ekbmiloserdie.ru/news/item_03807-zachem_vesti_bazu_dannyih_lits_bomj); mobile applications; [complex medical systems](https://vk.com/cfm2001?w=wall-76276932_6649) and mechanisms for working with database >20 TB. I've also attended IT conferences a [couple](https://www.youtube.com/watch?v=zItkmly_yvA&list=LL&index=5&ab_channel=INFOSTART.RU) of [times](https://www.youtube.com/watch?v=dTABX3Uc0z0&list=LL&index=7&ab_channel=INFOSTART.RU) and spoken publicly to halls of 900 people. 
 
 <div align="center">
-<b>blocks</b>: resume, site , mail, vk, telegram, linkedin
+resume, site , mail, vk, telegram, linkedin
 </div>
 
 ### Tools I use
@@ -19,9 +17,9 @@ python django flask 1c postgres sqlite mssql html css js vue docker nginx gunico
 
 ### Some quick facts
 - my life described in one .gif 👉
-- bicycle
 - public speeches
 - books
+- bicycle
 - guitar and songs. My top three songs for profitable street performing.
 - video games
 - something else
