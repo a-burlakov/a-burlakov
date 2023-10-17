@@ -1,1 +1,1 @@
-<img src="./img/hydra_fight_2023.gif" height=225 />
+<img align="center" src="./img/my_life.gif" height=225 />
